@@ -1,0 +1,7 @@
+{
+  "name": "Ethereal Scroll: Hand-Gesture Interaction",
+  "description": "An interactive 3D Chinese scroll experience controlled by hand gestures using MediaPipe and Three.js. Unroll the virtual parchment with your own hands.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
